@@ -41,6 +41,10 @@ h1 {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+h2 {
+  font-family: monospace;
+}
+
 input {
   margin: 10px;
   width: 300px;
@@ -53,6 +57,9 @@ button {
   margin: 10px;
   width: 100px;
   height: 40px;
+  background-color: coral;
+  border-radius: 5px;
+  color: white;
 }
 
 ul {
